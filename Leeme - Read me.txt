@@ -1,0 +1,33 @@
+SUBLIME TEXT 2 DARK SIDEBAR
+
+How to install:
+
+1. Open Sublime Text 2 and go to Preferences -> Browse Packages.
+2. Locate the Theme - Default folder.
+3. Open the Files folder and copy its content to the Theme - Default folder.
+4. In ST2 go to Preferences -> Setting - User and paste the following line of code for a light interface:
+	
+	"theme": "Javiertic.sublime-theme" 
+
+or dark:
+
+	"theme": "JavierticDark.sublime-theme".
+
+5. Restart ST2 and you're done.
+
+----------------------------------------------------------------------------------------
+
+Como instalar:
+
+1. Inicia Sublime Text 2 y ve al menœ Preferences -> Browse Packages.
+2. Localiza la carpeta Theme - Default.
+3. Abre la carpeta Files y copia su contenido en Theme - Default.
+4. En ST2 ve a Preferences -> Setting - User y pega la siguiente línea de c—digo para un entorno claro:
+
+	"theme": "Javiertic.sublime-theme" 
+
+u oscuro:
+
+	"theme": "JavierticDark.sublime-theme".
+
+5. Reinicia ST2 y listo.
